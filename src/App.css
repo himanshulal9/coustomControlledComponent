@@ -1,0 +1,28 @@
+ a {
+   text-decoration: none;
+   color: #555555;
+ }
+
+ /* navbar  */
+ .MuiToolbar-regular {
+   min-height: 50px !important;
+ }
+
+ /* sidenav  */
+ .MuiGrid-spacing-xs-4 {
+   width: calc(100%) !important;
+   margin: 0px !important;
+ }
+
+ .MuiList-root {
+   overflow-x: hidden !important;
+ }
+
+ .MuiListItem-root {
+   padding-top: 6px;
+   padding-bottom: 6px;
+ }
+
+ .nested {
+   padding: 2px 0px 2px 8px;
+ }
